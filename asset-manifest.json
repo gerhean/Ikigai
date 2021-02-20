@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/xxx/static/css/main.80f5cbc0.chunk.css",
+    "main.js": "/xxx/static/js/main.a91316aa.chunk.js",
+    "main.js.map": "/xxx/static/js/main.a91316aa.chunk.js.map",
+    "runtime-main.js": "/xxx/static/js/runtime-main.c6a3670f.js",
+    "runtime-main.js.map": "/xxx/static/js/runtime-main.c6a3670f.js.map",
+    "static/css/2.150d169a.chunk.css": "/xxx/static/css/2.150d169a.chunk.css",
+    "static/js/2.58674c3c.chunk.js": "/xxx/static/js/2.58674c3c.chunk.js",
+    "static/js/2.58674c3c.chunk.js.map": "/xxx/static/js/2.58674c3c.chunk.js.map",
+    "index.html": "/xxx/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/xxx/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.80f5cbc0.chunk.css.map": "/xxx/static/css/main.80f5cbc0.chunk.css.map",
+    "static/js/2.58674c3c.chunk.js.LICENSE.txt": "/xxx/static/js/2.58674c3c.chunk.js.LICENSE.txt",
+    "static/media/CfA_B.92c668dd.svg": "/xxx/static/media/CfA_B.92c668dd.svg",
+    "static/media/csjournaling.9d289a1b.png": "/xxx/static/media/csjournaling.9d289a1b.png",
+    "static/media/ikigai-logo.dba5c96b.png": "/xxx/static/media/ikigai-logo.dba5c96b.png",
+    "static/media/image-pg-2.59d85e84.png": "/xxx/static/media/image-pg-2.59d85e84.png",
+    "static/media/image-pg-3.898d1a03.png": "/xxx/static/media/image-pg-3.898d1a03.png",
+    "static/media/style.css": "/xxx/static/media/shapes.ef2ea1b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6a3670f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.58674c3c.chunk.js",
+    "static/css/main.80f5cbc0.chunk.css",
+    "static/js/main.a91316aa.chunk.js"
+  ]
+}
