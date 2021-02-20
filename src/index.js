@@ -13,7 +13,7 @@ import Page6 from "./Page6";
 const rootElement = document.getElementById("root");
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route exact path="/" component={Page1} />
             <Route path="/intro" component={Page2} />
