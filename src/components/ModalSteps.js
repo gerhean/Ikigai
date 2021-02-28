@@ -13,6 +13,7 @@ function ModalSteps(props) {
     const inputField = React.useRef(null);
 
     const handleClose = () => {
+        handleAdd();
         if (modal.items.length > 0){
             switch (id) {
                 case 'vocation':
