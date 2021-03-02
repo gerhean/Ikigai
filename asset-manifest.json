@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Ikigai/static/css/main.89bd7821.chunk.css",
-    "main.js": "/Ikigai/static/js/main.6d8b9a1f.chunk.js",
-    "main.js.map": "/Ikigai/static/js/main.6d8b9a1f.chunk.js.map",
+    "main.css": "/Ikigai/static/css/main.602f36c6.chunk.css",
+    "main.js": "/Ikigai/static/js/main.e680fbf0.chunk.js",
+    "main.js.map": "/Ikigai/static/js/main.e680fbf0.chunk.js.map",
     "runtime-main.js": "/Ikigai/static/js/runtime-main.a6ac246c.js",
     "runtime-main.js.map": "/Ikigai/static/js/runtime-main.a6ac246c.js.map",
     "static/css/2.150d169a.chunk.css": "/Ikigai/static/css/2.150d169a.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.58674c3c.chunk.js.map": "/Ikigai/static/js/2.58674c3c.chunk.js.map",
     "index.html": "/Ikigai/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Ikigai/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.89bd7821.chunk.css.map": "/Ikigai/static/css/main.89bd7821.chunk.css.map",
+    "static/css/main.602f36c6.chunk.css.map": "/Ikigai/static/css/main.602f36c6.chunk.css.map",
     "static/js/2.58674c3c.chunk.js.LICENSE.txt": "/Ikigai/static/js/2.58674c3c.chunk.js.LICENSE.txt",
     "static/media/CfA_B.92c668dd.svg": "/Ikigai/static/media/CfA_B.92c668dd.svg",
     "static/media/csjournaling.9d289a1b.png": "/Ikigai/static/media/csjournaling.9d289a1b.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.a6ac246c.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.58674c3c.chunk.js",
-    "static/css/main.89bd7821.chunk.css",
-    "static/js/main.6d8b9a1f.chunk.js"
+    "static/css/main.602f36c6.chunk.css",
+    "static/js/main.e680fbf0.chunk.js"
   ]
 }
